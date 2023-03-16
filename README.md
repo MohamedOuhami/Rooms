@@ -39,6 +39,13 @@ Server running on [http://127.0.0.1:8000].
 ```
 - Paste It on your browser and hit enter
 
+### Super-Admin Account
+
+The super admin account is :
+- email : othmanelidrissi234@hotmail.com
+- password : Naruto123Sasuke123
+
+
 Now, you're set up to start using the application
 
 
